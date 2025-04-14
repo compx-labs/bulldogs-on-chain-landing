@@ -6,7 +6,7 @@ import { useState } from "react";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Bulldogs on Chain - Colorful NFT Collection" },
+    { title: "Bulldogs on Chain - X-NFT Series 3" },
     { name: "description", content: "3,000 Unique Frenchies. Yours to Shuffle." },
   ];
 };

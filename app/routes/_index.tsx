@@ -101,16 +101,13 @@ export default function Index() {
               transition={{ duration: 0.5, delay: 0.6 }}
               className="mt-8"
             >
-              {/* <a 
+               <a 
                 href={DAPP_URL} 
                 className="inline-block px-8 py-4 text-xl font-bold text-white bg-orange-500 rounded-full hover:bg-orange-600 transform hover:scale-105 transition-all shadow-lg"
               >
                 🎲 Shuffle Now
-              </a> */}
-              <div className="inline-block px-8 py-4 text-xl font-bungee text-white bg-orange-500 rounded-full shadow-lg border-2 border-white/20">
-                🚀 Launching on Friday 18th April 2025
-              </div>
-            </motion.div>
+              </a>
+            </motion.div> 
           </div>
         </div>
       </section>
